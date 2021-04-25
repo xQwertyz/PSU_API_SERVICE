@@ -1,0 +1,14 @@
+{
+  "key": "",
+  "script": "",
+  "options": {
+    "DisableSuperOperators": false,
+    "MaximumSecurityEnabled": false,
+    "EncryptAllStrings": true,
+    "DisableAllMacros": false,
+    "EnhancedOutput": false,
+    "CompressedOutput": false,
+    "PremiumFormat": true,
+    "ByteCodeMode": "Default"
+  }
+}
